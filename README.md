@@ -24,7 +24,9 @@
 ### 📈 KEY INSIGHTS
 <img width="692" height="303" alt="Screenshot 2026-07-20 014844" src="https://github.com/user-attachments/assets/8ae94186-1c8e-49d5-8c94-32a8c7bdcfc9" />
 
-## ⭐CONCLUSION: This project demonstrates the use of SQL to analyze hospital data and derive business insights from query results.
+## ⭐CONCLUSION: 
+#### This project demonstrates the use of SQL to analyze hospital management data and answer real world business questions. By analyzing patient, treatment, doctor, and billing data, meaningful insights
+#### were generated to support better operational and financial decision making . The project also showcases practical SQL skills ,including joins, aggregate functions, CTEs, window functions, and subqueries.
 
 
 
