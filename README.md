@@ -4,7 +4,8 @@
 ### billing using SQL.
 
 ### ⚙️TOOLS AND TECHNOLOGIES USED:
-<img width="675" height="137" alt="Screenshot 2026-07-19 233647" src="https://github.com/user-attachments/assets/a544f550-13d5-4eb3-a5bb-d6d914dad493" />
+<img width="676" height="126" alt="Screenshot 2026-07-20 015502" src="https://github.com/user-attachments/assets/c55f39ea-4ea9-4a3b-8dd9-9596b57e0d76" />
+
 
 ### 📑DATASETS
 <img width="223" height="152" alt="Screenshot 2026-07-19 234021" src="https://github.com/user-attachments/assets/501b5029-190d-4b57-a5a8-8e6e09b26830" />
