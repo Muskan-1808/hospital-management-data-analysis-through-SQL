@@ -24,6 +24,18 @@
 ### 📈 KEY INSIGHTS
 <img width="692" height="303" alt="Screenshot 2026-07-20 014844" src="https://github.com/user-attachments/assets/8ae94186-1c8e-49d5-8c94-32a8c7bdcfc9" />
 
+### SQL QUERY OUTPUTS
+
+<img width="1261" height="708" alt="Screenshot 2026-07-20 152028" src="https://github.com/user-attachments/assets/6e28754d-9770-47e0-b001-ef5f914472d3" />
+
+<img width="1266" height="712" alt="Screenshot 2026-07-20 152115" src="https://github.com/user-attachments/assets/0a650705-e068-4b8a-94a2-83d58d85cd29" />
+
+<img width="1266" height="712" alt="image" src="https://github.com/user-attachments/assets/515ee331-4bfd-4343-8e2b-45b919f02ea7" />
+
+<img width="1266" height="707" alt="image" src="https://github.com/user-attachments/assets/db16aeea-95d5-45d8-b308-4fd113579d1d" />
+
+### 📔NOTE:The complete SQL queries, outputs and detailed analysis for all 13 hospital questions are available in the project files and presentation.
+
 ## ⭐CONCLUSION: 
 #### This project demonstrates the use of SQL to analyze hospital management data and generate meaningful business insights. By query patient, doctor, ttreatment, appointment, and billing datasets,, important information about hospital operations and finqancial performance was identified.
 #### The analysis highlighted trends such as monthly revenue performance, payment method usage, and outstanding bills. These insights can help hospital management make informed decisions, optimize resource allocation and enhance revenue management.
