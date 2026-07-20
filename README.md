@@ -25,11 +25,9 @@
 <img width="692" height="303" alt="Screenshot 2026-07-20 014844" src="https://github.com/user-attachments/assets/8ae94186-1c8e-49d5-8c94-32a8c7bdcfc9" />
 
 ## ⭐CONCLUSION: 
-#### This project demonstrates the use of SQL to analyze hospital management data and answer real world business questions. By analyzing patient, treatment, doctor, and billing data, meaningful insights
-#### were generated to support better operational and financial decision making . The project also showcases practical SQL skills ,including joins, aggregate functions, CTEs, window functions, and subqueries.
-
-
-
+#### This project demonstrates the use of SQL to analyze hospital management data and generate meaningful business insights. By query patient, doctor, ttreatment, appointment, and billing datasets,, important information about hospital operations and finqancial performance was identified.
+#### The analysis highlighted trends such as monthly revenue performance, payment method usage, and outstanding bills. These insights can help hospital management make informed decisions, optimize resource allocation and enhance revenue management.
+#### Throughout the project, various SQL concepts including joins, aggregate functions, GROUP BY, HAVING, Subqueries and window functions were applied to solve real-world business problems. This project demonstrates practical SQL skills for data analysis and shows how raw hospital data can be transformed into actionable isnights for decision-making.
 
 
 
